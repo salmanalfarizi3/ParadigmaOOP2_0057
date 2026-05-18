@@ -9,3 +9,5 @@ public:
 };
 
 class derivedClass : public baseClass {
+public:
+    
