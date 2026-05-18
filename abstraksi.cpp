@@ -12,10 +12,17 @@ public:
         x = a;
         y = b;
     }
-    
+   
     void display() {
         cout << "x = " << x << endl;
         cout << "y = " << y << endl;
     }
 };
 
+int main() {
+    AbstraksiKlas ak;
+    ak.setXY("yogyakarta", "kampus");
+    ak.display();
+
+    return 0;
+}
