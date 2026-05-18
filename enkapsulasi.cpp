@@ -23,5 +23,5 @@ int main() {
 
     cout << lampuRumah.getSaklarNo(0) << endl;
     cout << lampuRumah.getSaklarNo(1) << endl;
-    
-}
+    cout << lampuRumah.getSaklarNo(2) << endl;
+   
