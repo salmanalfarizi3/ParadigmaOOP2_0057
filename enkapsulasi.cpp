@@ -22,4 +22,6 @@ int main() {
     lampuRumah.setSaklarNo(3, "lampu dapur");
 
     cout << lampuRumah.getSaklarNo(0) << endl;
+    cout << lampuRumah.getSaklarNo(1) << endl;
     
+}
