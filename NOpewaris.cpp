@@ -8,3 +8,10 @@ public:
     }
 };
 
+class baseClass2 {
+public:
+    virtual void perkenalan() {
+        cout << "hallo saya function dari base class";
+    }
+};
+
